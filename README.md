@@ -4,7 +4,7 @@
 This is a simple Todo App built using React's Context API (`useContext`, `createContext`) for state management. It also utilizes `useState` for state handling and `useEffect` to store and retrieve todos from `localStorage`, ensuring persistence across page reloads.
 
 ## Preview
-![](image.png)
+![](image1.png)
 
 ## Features
 - Add new todos
